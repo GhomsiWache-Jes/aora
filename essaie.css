@@ -1,0 +1,11 @@
+body{
+    background-color: burlywood;
+}
+h1{
+    font-weight: 900;
+    font-size: 50px;
+}
+.pre{
+    text-align: center;
+    margin-top: 200px;
+}
